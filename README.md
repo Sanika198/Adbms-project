@@ -1,3 +1,1 @@
-# Adbms-project
-
-Please read final project report to get an idea about the project.
+Please Read the Final_Report.docx  file to get the idea of this project. 
